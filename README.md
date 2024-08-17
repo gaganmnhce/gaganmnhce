@@ -1,4 +1,4 @@
-### Hi 👋, I am Gagan
+Hi 👋, I am Gagan
 
 ![coding_laptop_1200x675](https://github.com/gaganmnhce/gaganmnhce/assets/142805038/2d010547-5ae4-4d75-baba-a17a9716c1c8)
 
@@ -18,16 +18,12 @@ I'm a passionate Information Science student at New Horizon College of Engineeri
 
 📦 Medicine Dispenser | Arduino Technology
 - Developed an automated medicine dispenser using Arduino technology to ensure timely and accurate medication administration.
-- Leveraged the Arduino microcontroller as the central processing unit to control the dispensing mechanism and interface with 
-  external devices.
 
 🍽️ Food Ordering System | C
-- Created a food ordering system for restaurants that streamlines the ordering process by installing the system at each serving table.
 - Provided a convenient and efficient way for customers to browse menus, select dishes, and place orders directly without the need for traditional staff involvement.
 
 🗳️ Blockchain Voting System | HTML, CSS, JavaScript, Solidity
 - Designed an electronic voting system that enhances user participation by allowing secure voting from any device with an internet connection.
-- Implemented a blockchain-based voting mechanism to reduce voting fraud, ensuring a simple, secure, and efficient voting process.
 
 🎯 My Ambitions
 
