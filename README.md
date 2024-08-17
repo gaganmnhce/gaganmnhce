@@ -30,4 +30,4 @@ I'm a passionate Information Science student at New Horizon College of Engineeri
 I am eager to contribute to innovative projects and collaborate with other developers to create solutions that make a difference. I'm always on the lookout for new challenges and opportunities to grow.
 
 
-"Code is like humor. When you have to explain it, it’s bad."
+### "The only way to do great work is to love what you do."
